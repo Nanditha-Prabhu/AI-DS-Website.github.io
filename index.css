@@ -3,6 +3,10 @@
 ~ Non Photo blue #A8DADC
 ~ Cerulean #457B9D
 ~ Berkeley Blue  */
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body {
     background-color: #1D3557;
     margin: 0px;
@@ -32,6 +36,9 @@ body {
     margin: 20px;
     padding: 50px 20px 50px 20px;
     text-align: center;
+}
+.container-div:hover{
+    background-color: #457B9D;
 }
 .container-div-div {
     width: auto;
