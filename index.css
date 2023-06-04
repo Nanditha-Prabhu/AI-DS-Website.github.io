@@ -1,0 +1,41 @@
+/* ~ Red (Pantone) #E63946
+~ Honeydew #F1FAEE
+~ Non Photo blue #A8DADC
+~ Cerulean #457B9D
+~ Berkeley Blue  */
+body {
+    background-color: #1D3557;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+#header-div {
+    background-color: #F1FAEE;
+    padding: 20px;
+    color: #1D3557;
+    #dept{
+        text-align: left;
+    }
+    text-align: center;
+    font-weight: 700;
+    #main-heading{
+        font-size: 50px;
+    }
+    
+}
+.container-div{
+    color: #1D3557;
+    background-color: #A8DADC;
+    border: 0px;
+    border-radius: 5px;
+    width: 400px;
+    margin: 20px;
+    padding: 50px 20px 50px 20px;
+    text-align: center;
+}
+.container-div-div {
+    width: auto;
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+}
